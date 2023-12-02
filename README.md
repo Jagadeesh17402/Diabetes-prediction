@@ -1,10 +1,5 @@
-# Gmeet Clone
+1. Effective EDA:
+   Conducted insightful Exploratory Data Analysis (EDA) on a diabetes prediction dataset, showcasing strong analytical skills in deciphering complex healthcare data.
 
-Developed the clone of popular video-conferencing app by Google - GMeet
-
-## Features
-
-- Video conferencing - Users can organize meets as well as existing meet with an unique meet ID.
-- User authentication.
-- Real-time chat feature.
-- Collaborative and interactive whiteboard available to users during a meet.
+2. SVM Model Proficiency:
+   Implemented a precise Support Vector Machine (SVM) model for diabetes prediction, demonstrating expertise in machine learning applications for healthcare datasets.
